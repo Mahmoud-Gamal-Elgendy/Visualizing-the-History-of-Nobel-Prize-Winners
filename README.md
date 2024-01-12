@@ -1,5 +1,6 @@
 # Visualizing-the-History-of-Nobel-Prize-Winners 
 
+
 ## Project Description
 The Nobel Prize Analysis project aims to investigate and analyze potential biases in the way the Nobel Prize is awarded across different categories such as chemistry, literature, physics, medicine, economics, and peace. The Nobel Prize, established in 1901, has been a prestigious recognition for outstanding contributions in these fields. This project leverages data manipulation and visualization techniques to provide insights into the historical trends and patterns associated with the Nobel Prize.
 
